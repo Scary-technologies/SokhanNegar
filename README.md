@@ -1,4 +1,4 @@
-# P-V-T-T: تبدیل صدا به متن
+# PVTT: تبدیل صدا به متن
 
 این پروژه یک برنامه تبدیل صدا به متن با استفاده از پایتون است. این برنامه از کتابخانه‌های PyQt5 برای رابط کاربری و SpeechRecognition برای تشخیص صدا استفاده می‌کند.
 
@@ -23,7 +23,7 @@
 
 1. کلون کردن مخزن:
     ```sh
-    git clone https://github.com/Scary-technologies/V-T-T.git
+    git clone https://github.com/Scary-technologies/PVTT.git
     cd V-T-T
     ```
 
