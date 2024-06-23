@@ -24,7 +24,7 @@
 1. کلون کردن مخزن:
     ```sh
     git clone https://github.com/Scary-technologies/PVTT.git
-    cd V-T-T
+    cd PVTT
     ```
 
 2. نصب پیش‌نیازها:
