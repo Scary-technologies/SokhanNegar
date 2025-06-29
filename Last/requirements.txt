@@ -1,0 +1,1 @@
+ttkthemes pydub arabic-reshaper python-bidi vosk sounddevice noisereduce scipy pyperclip pypiwin32 python-docx fpdf
